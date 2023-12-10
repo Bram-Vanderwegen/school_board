@@ -1,0 +1,38 @@
+Circuit: * C:\Users\bramv\Documents\School\UHasselt\Toegepaste Analoge Elektronica\Labo\Labo 3\lab_3_50k_1k.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+06
+Initial Gmin=1e+06 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Tue Dec  5 15:35:35 2023
+Total elapsed time: 1.420 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 221249
+traniter = 220576
+tranpoints = 71994
+accept = 53351
+rejected = 18643
+matrix size = 18
+fillins = 1
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 944 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.74 KB object code size  0.3/0.3/[0.2]
+
